@@ -15,9 +15,7 @@
 
 - 🔭 Working on [Nullafi](https://www.nullafi.com)
 
-- 🌱 A Computer Engineer currently doing a **Master's Degree in Computer Science**
-
-- 📫 You can reach me through my **[linkedin](https://www.linkedin.com/in/jos%C3%A9-carlos-souza-96351b38/)**
+- 🌱 A Computer Engineer doing a **Master's Degree in Computer Science**
 
 - ⚡ Fun fact **I am a former DOTA 1 & 2 player haha**
 
