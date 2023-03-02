@@ -31,8 +31,9 @@
 # Stats
 
 <div align="center" >
-  
-![José's github stats](https://github-readme-stats.vercel.app/api?username=jcarlosjunior&theme=default&hide_border=false&include_all_commits=true&count_private=true) 
-![José's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcarlosjunior&theme=default&hide_border=false&include_all_commits=true&count_private=true) 
+  <a href="https://github.com/jcarlosjunior">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcarlosjunior&theme=default&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jcarlosjunior&theme=default&hide_border=false&include_all_commits=true&count_private=true"/>
+</a>
 </div>
 
