@@ -15,7 +15,7 @@
 
 - 🔭 Working on [Nullafi](https://www.nullafi.com)
 
-- 🌱 A Computer Engineer
+- 🌱 A Computer Engineer doing a master's degree in Computer Science
 
 - ⚡ Fun fact **I am a former DOTA 1 & 2 player haha**
 
