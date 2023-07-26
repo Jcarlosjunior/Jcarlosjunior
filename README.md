@@ -17,7 +17,7 @@
 
 - 🌱 A Computer Engineer doing a master's degree in Computer Science
 
-- ⚡ Fun fact **I am a former DOTA 1 & 2 player haha**
+- ⚡ Fun fact **I am a huge fan of FromSoftware Souls games**
 
 
 
