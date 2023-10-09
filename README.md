@@ -15,9 +15,7 @@
 
 - 🔭 Working on [Nullafi](https://www.nullafi.com)
 
-- 🌱 A Computer Engineer doing a master's degree in Computer Science
-
-- ⚡ Fun fact **I am a huge fan of FromSoftware Souls games**
+- 🌱 A Computer Engineer passionate about programming
 
 
 
