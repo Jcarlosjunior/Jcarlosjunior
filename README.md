@@ -10,8 +10,6 @@
 
 # Some things about me
 
-<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/70943732/209951414-a2e5a1bb-73e6-473d-895d-9baa0f0a5117.png">
-
 
 - 🔭 Working on [Nullafi](https://www.nullafi.com)
 
