@@ -1,29 +1,81 @@
-<br clear="left"/>
+<!--
+╔══════════════════════════════════════════════════════════╗
+║  👋 Hi, I’m **José Souza** – Head of Engineering @ Nullafi  ║
+╚══════════════════════════════════════════════════════════╝
+-->
 
-<div align="right" >
-   
-# Hi, I'm José Souza!
+<p align="center">
+  <img src="https://img.shields.io/badge/-Brazil-00A859?style=for-the-badge&logo=Brazil&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-Native%20%7C%20Bilingual-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Português-Nativo%20%7C%20Bilíngue-green?style=for-the-badge" />
+  <a href="https://patents.justia.com/inventor/jos-carlos-de-souza-bueno-jr">
+    <img src="https://img.shields.io/badge/Patents-3%2B-important?style=for-the-badge&logo=bookstack" />
+  </a>
+</p>
 
-</div>
+### 🚀 About Me
+I’m a **product-minded engineer** who turns *first concepts* into **dependable, customer-ready platforms**.  
+I thrive in cross-functional teams—from lean start-ups to distributed scale-ups—where **pragmatic decisions, solid engineering practices, and continuous learning** drive the work forward.
+
+### 🔎 What I’m Known For
+| Area | Impact |
+|------|--------|
+| **Secure data-flow software** | Lead engineering at **Nullafi**, where our *Zero-Trust Gateway* redacts sensitive fields _in real time_. |
+| **High-volume fintech systems** | Shipped a **recurring-donation gateway** relied on by global non-profits. |
+| **Mission-critical tooling** | Delivered aviation-maintenance & tax-compliance suites used by **Embraer** and **Itaú Bank**. |
+
+### 🛠️ How I Work
+- **Translate** regulatory & customer needs into clear architectures and sprint-sized plans.  
+- **Stay hands-on** across the stack—adapting tech choices and creating reusable patterns.  
+- **Collaborate** directly with founders, C-level partners, and design-partner customers to keep products aligned with real-world problems.
 
 ---
 
-# Some things about me
+## 🏢 Experience
+
+| Period | Role & Company | Highlights |
+|--------|----------------|------------|
+| **May 2021 → Present** | 🏅 **Head of Engineering**, Nullafi (Chicago) | • Drove end-to-end build-out of a Zero-Trust data-security platform.<br>• Prototyped new use-cases with customers, translating feedback into features.<br>• Championed peer-review culture and scalable engineering practices. |
+| **Nov 2015 → May 2021** | 🛡 **Tech Lead / Principal SWE**, Nullafi | • Designed and shipped v1 of **Nullafi Shield**, an inline data-redaction engine.<br>• Defined the technology stack and led weekly discovery sessions. |
+| **Nov 2014 → Nov 2015** | 💳 **Product Dev Mgr / Sr SWE**, ContaPaga | • Built payment website & gateway API; partnered with **Greenpeace** for online donations.<br>• Designed core checking-account system with secure concurrent transfers. |
+| **Oct 2010 → Oct 2014** | ✈️ **Sr SWE / Solutions Architect**, SPL Fiscal | • Led aircraft-maintenance support system & Brazilian Tax ERP.<br>• Integrated WebAPIs; delivered solutions for **Embraer S.A.** and **Itaú Bank**. |
+
+---
+
+## 🧰 Tech & Interests
+AI · Clean Architecture · Event-Driven Systems · Security Engineering · Fintech · Zero-Trust · Compliance Automation
+
+**Languages & Frameworks**  
+Go · C · C++ · C# · JavaScript · Node.js · TypeScript · React · Python · Ruby · PHP · HTML5 · CSS3 · Sass · Tailwind CSS · Bootstrap · Markdown
+
+**Cloud & DevOps**  
+Kubernetes · Docker · Packer · AWS · Azure · Heroku · Vercel
+
+**Databases & Caching**  
+PostgreSQL · MySQL · Microsoft SQL Server · SQLite · MongoDB · Redis · Supabase
+
+**Tools & Design**  
+Figma · Blender · Canva · Adobe Photoshop · Trello · Jira · Notion
 
 
-- 🔭 Working on [Nullafi](https://www.nullafi.com)
+Outside of code you’ll find me exploring aviation tech, practising strength training, and diving into the latest papers on AI & privacy.
 
-- 🌱 A Computer Engineer passionate about programming
+---
 
+## 📊 GitHub Stats
+<!-- Replace `your-username` with your actual GitHub handle -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcarlosjunior&theme=dark" alt="GitHub stats" />
+</p>
 
+---
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-souza/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/josecarlos_sbjr/)
+### 🌐 Connect With Me
+<a href="https://www.linkedin.com/in/jose-souza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://patents.justia.com/inventor/jos-carlos-de-souza-bueno-jr"><img src="https://img.shields.io/badge/View%20Patents-FFB81C?style=flat&logo=google-patents&logoColor=black" /></a>
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+---
 
+> **“Building secure data platforms that vanish the sensitive bits—so customers can focus on insights, not incidents.”**
 
-</div>
-
+*Thanks for stopping by! If any of my work resonates, feel free to reach out—collaboration is my favourite kind of pull request.* 🚀
