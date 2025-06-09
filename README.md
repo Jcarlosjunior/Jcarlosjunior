@@ -52,13 +52,13 @@ Go · C · C++ · C# · JavaScript · Node.js · TypeScript · React · Python �
 Kubernetes · Docker · Packer · AWS · Azure · Heroku · Vercel
 
 **Databases & Caching**  
-PostgreSQL · MySQL · Microsoft SQL Server · SQLite · MongoDB · Redis · Supabase
+PostgreSQL · MySQL · Oracle · Microsoft SQL Server · SQLite · MongoDB · Redis · Supabase
 
 **Tools & Design**  
 Figma · Blender · Canva · Adobe Photoshop · Trello · Jira · Notion
 
 
-Outside of code you’ll find me exploring aviation tech, practising strength training, and diving into the latest papers on AI & privacy.
+Outside of code you’ll find me exploring the world, learning new cultures, practising strength training, and diving into the latest papers on AI & privacy.
 
 ---
 
@@ -78,4 +78,4 @@ Outside of code you’ll find me exploring aviation tech, practising strength tr
 
 > **“Building secure data platforms that vanish the sensitive bits—so customers can focus on insights, not incidents.”**
 
-*Thanks for stopping by! If any of my work resonates, feel free to reach out—collaboration is my favourite kind of pull request.* 🚀
+*Thanks for stopping by! If any of my work resonates, feel free to reach out.* 
